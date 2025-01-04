@@ -4,3 +4,4 @@
 - 🌱 Passion
 - 💬 Involvement
 
+Building AI products that change the world.
